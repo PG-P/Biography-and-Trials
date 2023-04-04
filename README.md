@@ -1,5 +1,3 @@
-# Hello-world
-
 ## Biography
 
 I am **Piergiorgio Panero**, mathematician from *Italy*, currently in France. 
