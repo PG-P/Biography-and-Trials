@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am **Piergiorgio Panero**, mathematician from *Italy*, currently in Belgium. 
+I am **Piergiorgio Panero**, mathematician from *Italy*, currently in France. 
 Keen on:
 1. Higher Category Theory, 
 2. Algebraic Topology, 
